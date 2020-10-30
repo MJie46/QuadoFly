@@ -1,3 +1,13 @@
 # QuadoFly
-stm32f103主控板，双DRV8833输出，4通道pwm，带mpu6050，0.96寸OLED接口
-![](/Users/MJie/Electronic/stm32/打板/project/QuadoFly/QuadoFly.png)
+#### 尺寸40*45mm
+#### stm32f103主控
+#### IP5306集成电池充放电管理和升压输出
+#### 双DRV8833输出
+#### 4通道pwm
+#### MPU6050
+#### 0.96寸OLED接口
+#### 板载一个蓝牙模块
+#### 引出一路GPIO，一路IIC
+![](./Image/QuadoFly.png)
+
+## 软件开发中，可用作简易无人机，遥控小车
